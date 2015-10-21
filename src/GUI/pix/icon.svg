@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-489.63744 : 2.545811 : 1"
+       inkscape:vp_y="0 : 1255.4758 : 0"
+       inkscape:vp_z="13.214907 : -10.985417 : 1"
+       inkscape:persp3d-origin="8.6158266 : 4.3452027 : 1"
+       id="perspective3872" />
+    <linearGradient
+       id="gradient5"
+       y2="20"
+       x2="98.5"
+       y1="0"
+       x1="98.5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3090"
+         stop-opacity="1"
+         stop-color="#909090"
+         offset="0.4" />
+      <stop
+         id="stop3092"
+         stop-opacity="1"
+         stop-color="#808080"
+         offset="0.8" />
+    </linearGradient>
+    <linearGradient
+       id="gradient4"
+       y2="20"
+       x2="98.5"
+       y1="0"
+       x1="98.5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3085"
+         stop-opacity="1"
+         stop-color="#909090"
+         offset="0.4" />
+      <stop
+         id="stop3087"
+         stop-opacity="1"
+         stop-color="#808080"
+         offset="0.8" />
+    </linearGradient>
+    <linearGradient
+       id="gradient3"
+       y2="124"
+       x2="220"
+       y1="0"
+       x1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3080"
+         stop-opacity="1"
+         stop-color="#b0b0b0"
+         offset="0.2" />
+      <stop
+         id="stop3082"
+         stop-opacity="1"
+         stop-color="#909090"
+         offset="0.8" />
+    </linearGradient>
+    <linearGradient
+       id="gradient2"
+       y2="76"
+       x2="150"
+       y1="0"
+       x1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3075"
+         stop-opacity="1"
+         stop-color="#b0b0b0"
+         offset="0.2" />
+      <stop
+         id="stop3077"
+         stop-opacity="1"
+         stop-color="#909090"
+         offset="0.8" />
+    </linearGradient>
+    <linearGradient
+       id="gradient1"
+       y2="58"
+       x2="150"
+       y1="0"
+       x1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3070"
+         stop-opacity="1"
+         stop-color="#b0b0b0"
+         offset="0.2" />
+      <stop
+         id="stop3072"
+         stop-opacity="1"
+         stop-color="#909090"
+         offset="0.8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient1"
+       id="linearGradient3941"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="58" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient1"
+       id="linearGradient3943"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="58" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient2"
+       id="linearGradient3945"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="76" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient2"
+       id="linearGradient3947"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="76" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient3"
+       id="linearGradient3949"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="220"
+       y2="124" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient3"
+       id="linearGradient3951"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="220"
+       y2="124" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient4"
+       id="linearGradient3953"
+       gradientUnits="userSpaceOnUse"
+       x1="98.5"
+       y1="0"
+       x2="98.5"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient4"
+       id="linearGradient3955"
+       gradientUnits="userSpaceOnUse"
+       x1="98.5"
+       y1="0"
+       x2="98.5"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient5"
+       id="linearGradient3957"
+       gradientUnits="userSpaceOnUse"
+       x1="98.5"
+       y1="0"
+       x2="98.5"
+       y2="20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient5"
+       id="linearGradient3959"
+       gradientUnits="userSpaceOnUse"
+       x1="98.5"
+       y1="0"
+       x2="98.5"
+       y2="20" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="12.919533"
+     inkscape:cy="7.7315601"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="824"
+     inkscape:window-height="972"
+     inkscape:window-x="840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="0px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3096"
+       transform="matrix(0.51095327,0,0,0.51095327,-40.843234,991.79092)" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3098" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#202020;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3100">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 0,0 C -50,0 -4.78398,-118.988 -54.784,-118.988"
+         id="path3102" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#808080;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3104">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 0,0 C -50,0 -4.78398,-118.988 -54.784,-118.988"
+         id="path3106" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3108" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3110" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3120" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,10.252093,1042.8862)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3122" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,10.252093,1042.8862)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3124" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3126" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:url(#linearGradient3943);stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3128">
+      <path
+         style="fill:url(#linearGradient3941);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0,5 C 0,2.23858 2.23858,0 5,0 l 140,0 c 2.761,0 5,2.23858 5,5 l 0,48 c 0,2.7614 -2.239,5 -5,5 L 5,58 C 2.23858,58 0,55.7614 0,53 L 0,5"
+         id="path3130" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#404040;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3132">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 0,5 C 0,2.23858 2.23858,0 5,0 l 140,0 c 2.761,0 5,2.23858 5,5 l 0,48 c 0,2.7614 -2.239,5 -5,5 L 5,58 C 2.23858,58 0,55.7614 0,53 L 0,5"
+         id="path3134" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3136" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3138" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#707070;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3140">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0.5,22 120,22 c 2.761,0 5,-2.2386 5,-5 L 125,0.5 5.5,0.5 c -2.76142,0 -5,2.23858 -5,5 l 0,16.5"
+         id="path3142" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1037.9306)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3144" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-3.8391807,1038.0839)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3146" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:700;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,-3.8391807,1038.0839)"
+       font-size="11"
+       font-weight="700"
+       font-style="normal"
+       id="g3148">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:700;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="0"
+         y="10"
+         font-size="11"
+         font-weight="700"
+         font-style="normal"
+         id="text3150">x1.m</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-3.8391807,1038.0839)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3152" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,1038.0839)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3154" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.01816725,0,0,0.01816725,2.1957395,1038.0385)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3156">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3158" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.01816725,0,0,0.01816725,2.1957395,1038.0385)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3160">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3162" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,985.13064)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3164">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3166" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,985.13064)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3168">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3170" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,985.13064)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3172">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3174" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,985.13064)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3176">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3178" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,1038.0839)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3180" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2411633,1038.0839)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3182" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.0547)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3184" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.0547)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3186" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3188" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3190" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3192" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3194" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,3.3141651,1039.7189)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3196" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,3.3141651,1039.7189)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3198" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,3.3141651,1039.7189)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3200" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#404040;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,3.3141651,1039.7189)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3202">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 4,0 C 4,2.20914 2.20914,4 0,4 -2.20914,4 -4,2.20914 -4,0 c 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4"
+         id="path3204" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,3.3141651,1039.7189)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3206" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,1.8324006,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3208" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,1.8324006,1039.3102)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g3210">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="15"
+         y="10"
+         font-size="11"
+         font-weight="400"
+         font-style="normal"
+         id="text3212">x</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,1.8324006,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3214" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.9564978,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3216" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.9564978,1039.3102)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3218" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1040.2299)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3220" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,-4.3501339,1040.2299)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3222" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2922586,1040.4854)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3224" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#707070;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2922586,1040.4854)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3226">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 0,7.5 14.5,0 c 2.7614,0 5,-2.23858 5,-5 L 19.5,0 5,0 C 2.23858,0 0,2.23858 0,5 l 0,2.5"
+         id="path3228" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,2.2922586,1040.4854)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3230" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1045.7231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3232" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1045.7231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3242" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1045.7231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3244" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1045.7231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3250" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,25.325214,1045.8763)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3252" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,25.325214,1045.8763)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3258" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,31.405558,1045.8763)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3260" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,31.405558,1045.8763)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3286" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,31.405558,1045.8763)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3288" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1046.8472)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3290" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1046.8472)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3292" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3294" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3296" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3298" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3300" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3302" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3304" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3306" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1047.5114)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3312" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,25.274119,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3314" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,25.274119,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3320" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.916452,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3322" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.916452,1047.1026)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3324" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3326" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3328" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.47856,1048.4311)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3330" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.47856,1048.4311)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3332" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.47856,1048.4311)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3334" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.47856,1048.4311)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3340" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,30.996796,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3342" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,30.996796,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3348" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.120893,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3350" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,32.120893,1048.0223)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3352" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1048.9421)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3354" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,24.814261,1048.9421)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3356" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,31.456654,1049.1975)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3358" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,31.456654,1049.1975)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3364" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3366" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:url(#linearGradient3951);stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3368">
+      <path
+         style="fill:url(#linearGradient3949);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0,5 C 0,2.23858 2.23858,0 5,0 l 210,0 c 2.761,0 5,2.23858 5,5 l 0,114 c 0,2.761 -2.239,5 -5,5 L 5,124 c -2.76142,0 -5,-2.239 -5,-5 L 0,5"
+         id="path3370" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#404040;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3372">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 0,5 C 0,2.23858 2.23858,0 5,0 l 210,0 c 2.761,0 5,2.23858 5,5 l 0,114 c 0,2.761 -2.239,5 -5,5 L 5,124 c -2.76142,0 -5,-2.239 -5,-5 L 0,5"
+         id="path3374" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3376" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3378" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#707070;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3380">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0.5,22 190,22 c 2.761,0 5,-2.2386 5,-5 L 195,0.5 5.5,0.5 c -2.76142,0 -5,2.23858 -5,5 l 0,16.5"
+         id="path3382" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1044.0103)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3384" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6243248,1044.1636)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3386" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:700;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6243248,1044.1636)"
+       font-size="11"
+       font-weight="700"
+       font-style="normal"
+       id="g3388">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:700;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="0"
+         y="10"
+         font-size="11"
+         font-weight="700"
+         font-style="normal"
+         id="text3390">Function Selection</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6243248,1044.1636)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3392" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,1044.1636)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3394" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.01816725,0,0,0.01816725,16.235867,1044.1182)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3396">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3398" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.01816725,0,0,0.01816725,16.235867,1044.1182)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3400">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3402" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,991.21036)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3404">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3406" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,991.21036)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3408">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3410" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,991.21036)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3412">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3414" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,991.21036)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3416">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3418" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,1044.1636)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3420" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.281342,1044.1636)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3422" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.1344)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3424" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.1344)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3426" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3428" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3430" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3432" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3434" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3436" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3438" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3440" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#404040;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3442">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 4,0 C 4,2.20914 2.20914,4 0,4 -2.20914,4 -4,2.20914 -4,0 c 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4"
+         id="path3444" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1045.7987)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3446" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.5732295,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3448" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,6.5732295,1045.3899)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g3450">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="0"
+         y="10"
+         font-size="11"
+         font-weight="400"
+         font-style="normal"
+         id="text3452">x</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.5732295,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3454" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.2155622,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3456" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.2155622,1045.3899)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3458" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3460" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3462" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.354343,1046.7184)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3464" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.354343,1046.7184)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3466" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.354343,1046.7184)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3468" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#404040;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.354343,1046.7184)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3470">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 4,0 C 4,2.20914 2.20914,4 0,4 -2.20914,4 -4,2.20914 -4,0 c 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4"
+         id="path3472" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.354343,1046.7184)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3474" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3476" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1046.3096)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g3478">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="15"
+         y="10"
+         font-size="11"
+         font-weight="400"
+         font-style="normal"
+         id="text3480">x</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3482" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.996676,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3484" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.996676,1046.3096)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3486" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1049.6819)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3488" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1049.6819)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3490" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.332437,1049.9374)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3492" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#707070;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.332437,1049.9374)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3494">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 0,7.5 14.5,0 c 2.7614,0 5,-2.23858 5,-5 L 19.5,0 5,0 C 2.23858,0 0,2.23858 0,5 l 0,2.5"
+         id="path3496" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,16.332437,1049.9374)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3498" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3500" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3502" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3504" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3506" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3508" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#c0c0c0;fill-opacity:1;stroke:#202020;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3510">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 0,0 198,0 198,43 0,43 0,0"
+         id="path3512" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3514" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3516" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3518" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3520" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3522" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:url(#linearGradient3955);stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3524">
+      <path
+         style="fill:url(#linearGradient3953);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0,4 C 0,1.79086 1.79086,0 4,0 l 189,0 c 2.209,0 4,1.79086 4,4 l 0,12 c 0,2.2091 -1.791,4 -4,4 L 4,20 C 1.79086,20 0,18.2091 0,16 L 0,4"
+         id="path3526" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#808080;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3528">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 1,3 83,0 c 2.2091,0 4,1.79086 4,4 l 0,6 c 0,2.2091 -1.7909,4 -4,4 L 0.5,17"
+         id="path3530" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3532" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1047.5359)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3534" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1047.5359)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3536" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1047.5359)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3538" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1047.5359)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g3540">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="0"
+         y="10"
+         font-size="11"
+         font-weight="400"
+         font-style="normal"
+         id="text3542">xplus1.m</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1047.5359)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3544" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1047.6381)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3546" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.01362544,0,0,0.01362544,15.838345,1047.6039)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3548">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3550" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.01362544,0,0,0.01362544,15.838345,1047.6039)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3552">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3554" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1007.9231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3556">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3558" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1007.9231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3560">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3562" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1007.9231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3564">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3566" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1007.9231)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3568">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3570" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1047.6381)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3572" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1047.6381)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3574" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1048.66)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3576" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:url(#linearGradient3959);stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1048.66)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3578">
+      <path
+         style="fill:url(#linearGradient3957);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 0,4 C 0,1.79086 1.79086,0 4,0 l 189,0 c 2.209,0 4,1.79086 4,4 l 0,12 c 0,2.2091 -1.791,4 -4,4 L 4,20 C 1.79086,20 0,18.2091 0,16 L 0,4"
+         id="path3580" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:#808080;fill-opacity:1;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1048.66)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3582">
+      <path
+         style="fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 1,3 83,0 c 2.2091,0 4,1.79086 4,4 l 0,6 c 0,2.2091 -1.7909,4 -4,4 L 0.5,17"
+         id="path3584" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1048.66)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3586" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1048.7111)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3588" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1048.7111)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3590" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1048.7111)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3592" />
+    <g
+       style="font-size:11px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Calibri"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1048.7111)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g3594">
+      <text
+         style="font-size:11px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri"
+         xml:space="preserve"
+         x="0"
+         y="10"
+         font-size="11"
+         font-weight="400"
+         font-style="normal"
+         id="text3596">xplus1.m</text>
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.9308967,1048.7111)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3598" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1048.8133)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3600" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.01362544,0,0,0.01362544,15.838345,1048.7791)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3602">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3604" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.01362544,0,0,0.01362544,15.838345,1048.7791)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3606">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="M 45,25 C 45,36.0457 36.0457,45 25,45 13.9543,45 5,36.0457 5,25 5,13.9543 13.9543,5 25,5 36.0457,5 45,13.9543 45,25"
+         id="path3608" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1009.0983)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3610">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3612" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1009.0983)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3614">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1041.87 4.97779,4.98"
+         id="path3616" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:MS Shell Dlg 2"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1009.0983)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3618">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="non-scaling-stroke"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3620" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       stroke-miterlimit="4"
+       transform="matrix(0.0383215,0,0,0.0383215,15.872579,1009.0983)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3622">
+      <path
+         inkscape:connector-curvature="0"
+         vector-effect="none"
+         d="m 5.51111,1046.85 4.97779,-4.98"
+         id="path3624" />
+    </g>
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1048.8133)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3626" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1048.8133)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3628" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,15.872579,1048.8133)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3630" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3632"
+       transform="matrix(0.51095327,0,0,0.51095327,-40.843234,991.79092)" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.6754201,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3634" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.098867,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3636" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,17.098867,1047.4848)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3638" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.2293)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3640" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       transform="matrix(0.05109533,0,0,0.05109533,6.1133715,1047.2293)"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3642" />
+    <g
+       style="font-size:8.25px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:MS Shell Dlg 2"
+       font-size="8.25"
+       font-weight="400"
+       font-style="normal"
+       id="g3644"
+       transform="matrix(0.51095327,0,0,0.51095327,-40.843234,991.79092)" />
+  </g>
+</svg>

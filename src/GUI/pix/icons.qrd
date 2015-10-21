@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>toolbar/new.svg</file>
+	<file>toolbar/open.svg</file>
+	<file>toolbar/save.svg</file>
+	<file>toolbar/undo.svg</file>
+	<file>toolbar/redo.svg</file>
+	<file>toolbar/cut.svg</file>
+	<file>toolbar/copy.svg</file>
+	<file>toolbar/paste.svg</file>
+	<file>toolbar/run.svg</file>
+</qresource>
+<qresource>
+	<file>node/close.svg</file>
+    <file>node/maximize.svg</file>
+    <file>node/minimize.svg</file>
+    <file>node/iterate.svg</file>
+    <file>node/square.svg</file>
+</qresource>	
+<qresource>
+    <file>gloss.svg</file>
+    <file>icon.svg</file>
+    <file>close_inverted.svg</file>
+</qresource>
+</RCC>

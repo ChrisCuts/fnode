@@ -1,0 +1,114 @@
+{
+    "currentworkpath": "C:\\etec\\classification_environment",
+    "nodes": [
+        {
+            "fields": {
+                "outputs": {
+                    "a": 67783312
+                }
+            },
+            "gui_data": {
+                "pos": [
+                    -149.0,
+                    -127.0
+                ]
+            },
+            "id": 67736856,
+            "name": "hello.m",
+            "path": "C:\\etec\\classification_environment\\",
+            "type": "mFunctionNode"
+        },
+        {
+            "fields": {
+                "inputs": {
+                    "data": 67736688
+                },
+                "options": {
+                    "addanewone": {
+                        "value": "sun"
+                    },
+                    "nopenope": {
+                        "value": "yope"
+                    },
+                    "overlap": {
+                        "pipe": 67784040,
+                        "value": "200000"
+                    }
+                }
+            },
+            "gui_data": {
+                "pos": [
+                    224.0,
+                    -182.0
+                ]
+            },
+            "id": 67737136,
+            "name": "CoM_2.m",
+            "path": "C:\\etec\\classification_environment\\SEGMENTATION\\",
+            "type": "mFunctionNode"
+        },
+        {
+            "fields": {
+                "inputs": {
+                    "0": 67783312
+                },
+                "outputs": {
+                    "0": 67736688,
+                    "1": 67784040
+                }
+            },
+            "gui_data": {
+                "pos": [
+                    129.75874475162087,
+                    -117.04507772371709
+                ]
+            },
+            "id": 67739600,
+            "type": "Branch"
+        }
+    ],
+    "pipes": [
+        {
+            "connectors": [
+                {
+                    "field": "outputs",
+                    "name": "a",
+                    "node": 67736856
+                },
+                {
+                    "field": "inputs",
+                    "name": 0,
+                    "node": 67739600
+                }
+            ]
+        },
+        {
+            "connectors": [
+                {
+                    "field": "outputs",
+                    "name": 0,
+                    "node": 67739600
+                },
+                {
+                    "field": "inputs",
+                    "name": "data",
+                    "node": 67737136
+                }
+            ]
+        },
+        {
+            "connectors": [
+                {
+                    "field": "outputs",
+                    "name": 1,
+                    "node": 67739600
+                },
+                {
+                    "field": "options",
+                    "name": "overlap",
+                    "node": 67737136
+                }
+            ]
+        }
+    ]
+}

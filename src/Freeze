@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+from cx_Freeze import main
+
+main()
+
