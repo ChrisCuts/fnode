@@ -1,4 +1,4 @@
-# fnode
+# fNode
 
 Function Node Environment
 
