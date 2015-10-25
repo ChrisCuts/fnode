@@ -148,6 +148,7 @@ class FunctionSideBar(QtGui.QDockWidget):
                 parent_item.appendRow(item)
                 self.build_tree(item, subfolder)
                 
+            
             for filename, fileinfo in folder.files().items():
                 
                 item = QtGui.QStandardItem(filename)

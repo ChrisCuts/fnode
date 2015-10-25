@@ -352,7 +352,7 @@ def start():
     system = FunctionSystem()
     
     
-    system.load(system.file_manager().current_workpath() + '\save.json')    
+    #system.load(system.file_manager().current_workpath() + '\save.json')    
     
 #     data= {'type': 'FunctionSelectionNode'}
 #     system.add_node(data)

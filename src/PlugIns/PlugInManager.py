@@ -68,7 +68,8 @@ class PlugInManager():
             
             for node in plugin.nodes():
                 
-                if isinstance(node, PlugIns.NodeTemplates.FunctionNodeTemplate):
+                if issubclass(node, PlugIns.NodeTemplates.FunctionNodeTemplate):
+                    
                     functions.update({node.file_extension(): node})
                 
         return functions
